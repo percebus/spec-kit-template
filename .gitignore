@@ -1,6 +1,9 @@
 
 tmp/
 
+# spec-kit
+.specify/**/*.cache
+
 ##################################
 ### VisualStudioCode.gitignore ### SRC: https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 ##################################
