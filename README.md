@@ -6,4 +6,4 @@ GitHub Spec-kit template
 
 ### GitHub
 
-- [`github`](https://github.com/github/spec-kit) / [`spec-kit`](https://github.com/github/spec-kit)
+- [`github`](https://github.com/github) / [`spec-kit`](https://github.com/github/spec-kit)
